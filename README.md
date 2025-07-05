@@ -17,7 +17,6 @@ scikit-learn
 
 ---
 
-
 ## 📁 Dataset
 
 The dataset used in this project is `data_final.csv`, which contains historical hourly market clearing prices and timestamps.
