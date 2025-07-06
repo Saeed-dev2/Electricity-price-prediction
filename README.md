@@ -2,7 +2,6 @@
 
 This project performs time series analysis and forecasting of electricity market prices (MCP_TL) using historical data and LSTM neural networks. It includes data preprocessing, feature engineering, visualization, and model training using TensorFlow/Keras.
 
-
 ---
 
 ## 📦 Libraries Used
